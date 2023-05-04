@@ -1,0 +1,61 @@
+.box {
+    display: flex;
+    justify-content: center;
+    height: 90vh;
+    align-items: center;
+}
+
+
+.card {
+    width: 800px;
+    text-align: center;
+    background: black;
+    color: #fff;
+    padding-top: 20px;
+}
+
+
+input{
+    width: 70%;
+    height: 40px;
+    padding-left: 20px;
+    outline: none;
+    margin-bottom: 30px;
+}
+
+
+.btn{
+    width: 100px;
+    height: 40px;
+    margin: 2px;
+    background: indigo;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+
+.textSelect{
+    width: 80%;
+    background: rgb(195, 233, 235);
+    height: 100px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    color: #000;
+    font-size: 25px;
+    justify-content: center;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
